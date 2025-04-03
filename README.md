@@ -1,2 +1,12 @@
-# Lung-Cancer-Prediction-Using-CNN
-This is the Project That is used For Predicting whether the Person can have The Lung Cancer Or Not Based On CT Scan Images
+# Lung-Cancer-Detection-Using-CNN
+This is Lung Cancer Detection using Deep Learning 
+We collected data from Kaggle The dataset contains  CT-scan of 
+NON-SMALL CELL LUNG CANCER
+*Adenocarcinoma
+*Large cell carcinoma
+*Squamous cell carcinoma
+*Normal
+
+Here, the Resnet 50 model is more precise.
+
+dataset link :- https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
